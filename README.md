@@ -1,6 +1,6 @@
 # Fala Dev!! Tudo beleza ?
 
-- 👨🏽‍💻 -  Eu me chamo [Paulo Pelaez](https://www.linkedin.com/in/paulopelaez);
+- 👨🏽‍💻 -  Eu me chamo [Larissa Torres](https://www.linkedin.com/in/larissatorresandrade/);
 - 💜 - Atualmente sou Founder & CTO na [QueryWork](https://www.linkedin.com/company/querywork);
 - 🦄 - Somos uma Startup que contrata os melhores talentos techs para empresas referência de mercado;
 - 💸 - Constantemente temos vagas para:
